@@ -239,4 +239,4 @@ This repository serves as the official landing page for Video DVD Maker. The sof
 **Get the most recent version of Video DVD Maker today!**
 
 ---
-**Last updated:** 2026-09-12 12:45:42 UTC
+**Last updated:** 2026-09-12 16:07:18 UTC
